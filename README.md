@@ -1,5 +1,5 @@
 # steam-game-bot-Daskama-edition
-[Steam](https://steamcommunity.com/id/19992110) **|** [Website](https://www.hulibrci.wtf/) **|** [Demo](https://steamcommunity.com/id/gamesbots/) **|**
+[Steam](https://steamcommunity.com/id/19992110) **|** [Website](https://www.hulibrci.wtf/) **|** [Demo](https://steamcommunity.com/id/gamesbots/) **|** [discord](https://discord.gg/Xzd83yK) **|**
 
 It's a Bot that sells games on steam. accepting  TF2 , CSGO , Gems .The core of the robot is from  [frej4189](https://github.com/frej4189/steam-games-bot) Edit me . 
 
@@ -28,7 +28,7 @@ Join the support server and ask your questions in [#support](https://discord.gg/
 
 # Donations
 
-Help me make free update [donating](https://www.paypal.com/paypalme/Hulibrci) and you will get access to fast support and earlier update .# 
+Help me make free update [donating](https://www.paypal.com/paypalme/Hulibrci) and you will get access to fast support and earlier update .
 
 # Demo
 
