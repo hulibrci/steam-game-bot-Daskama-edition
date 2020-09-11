@@ -28,7 +28,7 @@ Join the support server and ask your questions in [#support](https://discord.gg/
 
 # Donations
 
-Help Member Counter to be maintained by [donating](https://www.paypal.com/paypalme/Hulibrci) and you will get access to fast support and earlier update .# 
+Help me make free update [donating](https://www.paypal.com/paypalme/Hulibrci) and you will get access to fast support and earlier update .# 
 
 # Demo
 
