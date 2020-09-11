@@ -21,6 +21,8 @@ Join the support server and ask your questions in [#support](https://discord.gg/
 # Installation
 - Install node js
 - Install node-module (`npm i `)
+- Edit config (`/data/config.json `)
+- Add admin ID (`/utils/users.js  605`)
 - run bot (`node bot.js `)
 - Done 😉
 
