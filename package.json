@@ -1,0 +1,21 @@
+{
+  "name": "steam-games-Daskama-upgrade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matej Mokry",
+  "license": "ISC",
+  "dependencies": {
+    "@doctormckay/steam-webapi": "^1.1.1",
+    "request": "^2.85.0",
+    "steam-totp": "^2.1.0",
+    "steam-tradeoffer-manager": "^2.10.0",
+    "steam-user": "^4.11.0",
+    "steamcommunity": "^3.40.0",
+    "azul-tools": "^1.2.2",
+    "steamid": "^1.1.0"
+  }
+}
