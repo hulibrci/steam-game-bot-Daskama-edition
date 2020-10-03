@@ -32,7 +32,7 @@ Help me make free update [donating](https://www.paypal.com/paypalme/Hulibrci) an
 
 # Demo
 
-You can try my Bot [Daskama Game Bot ](https://steamcommunity.com/id/gamesbots/)
+You can try my Bot [CTRL Bot Services](https://steamcommunity.com/id/Ctrl-Game-Bot)
 
 
 # Gallery
